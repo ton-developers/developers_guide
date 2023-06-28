@@ -1,17 +1,13 @@
 ## System architecture
 
-Ton developers team works with huge amount of products and options. So the best way to handle all of
-them its to get and find full information about the system architecture.
+Ton developers team works with a massive amount of products and options. So the best way to handle them is to get and find complete information about the system architecture.
 
-So lets start from the main system architecture.
+So let's start with the central system architecture.
 
-### Main system architecture
+Main system architecture
+The central system architecture is a massive amount of microservices that are working together or separately to provide the best onboarding guide and user experience.
 
-The main system architecture is a huge amount of microservices which are working together or separetly to provide
-the best onboarding guide and the best user experience.
-
-The main goal of every product its to onboard and share the knowledge of all web3 and crypto industry
-to future user.
+The main goal of every product is to onboard and share the knowledge of all web3 and crypto industry to future users.
 
 
 ### List of TF-related projects
