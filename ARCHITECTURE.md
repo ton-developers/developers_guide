@@ -4,11 +4,9 @@ Ton developers team works with a massive amount of products and options. So the 
 
 So let's start with the central system architecture.
 
-Main system architecture
-The central system architecture is a massive amount of microservices that are working together or separately to provide the best onboarding guide and user experience.
+The central system architecture looks like many microservices working together or separately to provide the best onboarding guide and user experience.
 
 The main goal of every product is to onboard and share the knowledge of all web3 and crypto industry to future users.
-
 
 ### List of TF-related projects
 
