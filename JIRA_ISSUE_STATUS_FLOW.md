@@ -1,6 +1,6 @@
 # Managing Issue Status Transition via Github
 
-The following is a guide on managing the status transition for an issue created in the [TF Web Jira project](https://tf-web.atlassian.net/). The idea is to trigger the status change of an issue by specific Github actions and events such as branch creation, Pull Request creation, etc. 
+The following is a guide on managing the status transition for an issue created in the [TF Web Jira project](https://tf-web.atlassian.net/). The idea is to trigger the status change of an issue by specific Github actions and events such as branch creation, pull request creation, etc. 
 
 There are three possible types of issues: _Bug_, _Story_, and _Task_. Only _Bug_ and _Task_ issues are related to code, so only these tasks can be affected by the rules outlined below.
 
