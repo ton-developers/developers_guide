@@ -59,11 +59,19 @@ Also, the rules are configured so that if the PR is declined (by you or your rev
 
 ### Step 5
 
-After the new code is deployed at the _staging_ environment and the team approves the updates, create a pull request into the _main_ or _master_ branch (depending on the project repo). This should trigger the issue status change from **IN STAGING** to **READY FOR DEPLOY**.
+After the new code is deployed at the _staging_ environment and our team approves the updates, create a pull request into the _main_ or _master_ branch (depending on the project repo). Make sure to include the issue key at the beginning of the pull request title -- `{jira-issue-key} {pull-request-title}`. This is the only way to identify that your PR into _main_/_master_ belongs to the given Jira issue.
+
+For example:
+![image](https://github.com/andreyxdd/developers_guide/assets/20891090/aa5818ff-5450-43d3-a663-6844b5e189aa)
+
+
+This should trigger the issue status change from **IN STAGING** to **READY FOR DEPLOY**.
 
 ### Step 6
 
 Finally, once the PR into the _main_ or _master_ branch is merged, the issue status changes to **COMPLETED**. Congrats!
+
+![image](https://github.com/andreyxdd/developers_guide/assets/20891090/7513ff4c-f0a7-4e78-a578-eb2fb9c0892a)
 
 Now you can calmly wait for users to report the new bugs in production as a result of your changes!
 
