@@ -12,6 +12,6 @@ First of all let me introduce you the main structure of that guide.
 - [CodeStyle](./CODESTYLE.md)
 - [Stack and technologies](./STACK_TECHNOLOGIES.md)
 - [Testing](./TESTING.md)
-- [Workflow](./WORKFLOW.md)
+- [Workflow](./JIRA_ISSUE_STATUS_FLOW.md)
 
 Feel free to propose any changes by the pull-request flow.
