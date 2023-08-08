@@ -26,7 +26,7 @@ Let's consider an issue with the "TO DO" status in the backlog or sprint board:
 Click on "Create branch" to create a new Github branch associated with the issue. Choose the corresponding repository and branch of origin, then type in the name of a new branch.
 
 Follow the format of `{jira-issue-key}/{username}/{new-branch-name}`. Otherwise, Jira won't be able to identify the branch:
-![image](https://github.com/andreyxdd/developers_guide/assets/20891090/52b65f54-aad4-433e-9aa3-5e3bc3db36fe)
+![image](https://github.com/ton-developers/developers_guide/assets/20891090/ddc7ea36-0a7f-4c5c-94cb-99cb6b9b9a5c)
 
 Once it's done, the branch should be created in the specified Github repo:
 ![image](https://github.com/andreyxdd/developers_guide/assets/20891090/7e7c19b4-cb79-4152-b0b8-6e3d31a18639)
